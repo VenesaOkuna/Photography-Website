@@ -1,2 +1,5 @@
 # Photography-Website
-This page will be used to showcase the author's (Venesa Okuna) photography work, as an online portfolio and as a source of inspiration to  other photographers.
+This website "ESSA SHOT IT" will be used to showcase the author's (Venesa Okuna) photography work, as an online portfolio and as a source of inspiration to  other photographers.
+This website is made up entirely with basic HTML and Css codes.The website serves as an online portfolio for the author and may be used as a source of inspiration to other artists.
+Disclaimer
+You may not copy, reproduce, distribute, publish, display, perform, modify, create derivative works, transmit, or in any way exploit any such content, nor may you distribute any part of this content over any network, including a local area network, sell or offer it for sale, or use such content to construct any kind of database. You may not alter or remove any copyright of the content of the website. Copying or storing any content except as provided above is expressly prohibited without prior written permission of the author or the copyright holder identified in the individual content’s copyright notice. For permission to use the content on the website, please contact venesaatieno5@gmail.com
