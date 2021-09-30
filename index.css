@@ -1,0 +1,126 @@
+*{
+  background-color: whitesmoke
+}
+h1{
+    font-size: xx-large;
+    border: 3px solid black;
+    color: rgb(104, 18, 63);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1050px;
+    height: 50px;
+    padding: 20px;
+    background-color: lemonchiffon;
+    background-clip: content-box;
+    border: 10px;
+    border-style: inset;
+    margin: 20px;
+    text-align: center
+}
+p{
+    color: deeppink;
+}
+.description{
+    color: darkslategrey;
+    text-align: center;
+    border:black 3px
+    border-style; inset;
+    font-family: 'Courier New', Courier, monospace;
+}
+.heading{
+color: deeppink;
+width: 1050px;
+height: 30px;
+padding: 20px;
+background-color: lightpink;
+background-clip: content-box;
+border: 10px; outset:lightpink
+border-style: outset
+margin: 20px
+text-align: left;
+}
+
+div{
+    display: block;
+    align-items: center;
+    padding: 20px;
+
+
+}
+style{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.images{
+    align-items: right;
+}
+.intro{
+    width: 1050px;
+    height: 65px;
+    padding: 30px;
+    font-family:'Courier New', Courier, monospace;
+    color: darkslategrey;
+    background-color: transparent;
+    background-clip: content-box;
+    border: 3px;
+    border-style: solid;
+    margin: 20px;
+    text-align: center
+    ;
+}
+h3{ 
+    color: black;
+    font-family: sans-serif;
+    font-size: medium;
+}
+form {
+    
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    padding: 1px;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+  }
+  
+  ol {
+    
+    padding: 40px;
+    margin: 40px;
+  }
+  
+  form li + li {
+    margin-top: 30px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+  }
+  
+  input,
+  textarea {
+    
+    font: 16px sans-serif;
+    width: 200px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+  }
+  
+  input:focus,
+  textarea:focus {
+    border-color: #000;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 200px;
+  }
+  
+  .button {
+    padding-left: 90px;
+  }
+  
+  button {
+    margin-left: .20px;
+  }
